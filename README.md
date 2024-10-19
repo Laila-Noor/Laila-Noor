@@ -1,6 +1,7 @@
 ## Welcome to my GitHub 👋 I'm Laila. A professional data and business analyst with a distinctive background,
 blending naval intelligence expertise and healthcare experience. With over a decade of experience, I specialize in 
 transforming complex data into strategic insights to drive business outcomes and enhance decision-making. 
+
 🔗 www.linkedin.com/in/lailameyer
 
 📧 lailanoormeyer@outlook.com
@@ -10,10 +11,12 @@ transforming complex data into strategic insights to drive business outcomes and
 
 🔎 **About Me**
 - 🚢 **Naval Intelligence Specialist US Reserves**
-    I spent 4 years serving in the US reserves as a naval intelligence specialist, where I was responsible for critical intelligence operations.
+
+   I spent 4 years serving in the US reserves as a naval intelligence specialist, where I was responsible for critical intelligence operations.
    This experience taught me how to analyze vast amountsof data, think strategically, and act decisively in high-pressure enviroments.
   
 - 🏥 **Healthcare Professional**
+
   Before my work in analytics, I was a Certified Nursing Assistant (CNA) in long-term care and rehabilitation. I also worked as in medical records,
   social services, and as a Medical Assistant in specialites like family medicine, pediactrics, geriactricts, dermatology, and oncology. This hands-on
   experience gave me a deep understanding of patient care and operational workflows in the healthcare industry.
