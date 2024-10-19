@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 👋 I'm Laila. A professional data and business analyst with a distinctive background,
 blending naval intelligence expertise and healthcare experience. With over a decade of experience, I specialize in 
-transforming complex data into strategic insights to drive business outcomes and enhance decision-making. 
+transforming complex data into strategic insights to drive business outcomes and enhance decision-making.
 
 🔗 www.linkedin.com/in/lailameyer
 
@@ -38,16 +38,16 @@ transforming complex data into strategic insights to drive business outcomes and
  
   **Data Analystics**:
   
-      SQL, Tableau, Power BI, Excel, PowerPoint, Python
+  SQL, Tableau, Power BI, Excel, PowerPoint, Python
   **Version Control & Collaberation**:
   
-      GitHub, Google Workspace, Loom, Zoom
+  GitHub, Google Workspace, Loom, Zoom
   **Healthcare Systems**:
   
-       EHR, EMR Software
+  EHR, EMR Software
   **Database Managment**:
   
-      SQL
+  SQL
 
   
 - 🚀 **What I'm Working On**
