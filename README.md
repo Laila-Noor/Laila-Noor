@@ -18,20 +18,20 @@ This experience taught me how to analyze vast amountsof data, think strategicall
   
 - 🏥 **Healthcare Professional**
 
-        Before my work in analytics, I was a Certified Nursing Assistant (CNA) in long-term care and rehabilitation. I also worked as in medical records,
-        social services, and as a Medical Assistant in specialites like family medicine, pediactrics, geriactricts, dermatology, and oncology. This hands-on
-        experience gave me a deep understanding of patient care and operational workflows in the healthcare industry.
+  Before my work in analytics, I was a Certified Nursing Assistant (CNA) in long-term care and rehabilitation. I also worked as in medical records,
+  social services, and as a Medical Assistant in specialites like family medicine, pediactrics, geriactricts, dermatology, and oncology. This hands-on
+   experience gave me a deep understanding of patient care and operational workflows in the healthcare industry.
   
 - ✨ **What I Bring**
   **Analytical Mindset**:
 
-      My time in naval intelligence sharpended my ability to assess complex situations, interpret data, and deliver actionable insights.
+     My time in naval intelligence sharpended my ability to assess complex situations, interpret data, and deliver actionable insights.
   **Healthcare Insights**:
 
-      With years of experience across various healthcare roles, I have a unique perspective on medical data, patient care workflows, and operational enviroments.
+   With years of experience across various healthcare roles, I have a unique perspective on medical data, patient care workflows, and operational enviroments.
   **Problem-Solving Skills**:
 
-      Whether it's optimizing proccesses or analyzing intelligence, I thrive in enviroments that require quick thinking and innovative solutions.
+  Whether it's optimizing proccesses or analyzing intelligence, I thrive in enviroments that require quick thinking and innovative solutions.
 
   
 - 🛠️**My Tech Skills**
@@ -52,11 +52,11 @@ This experience taught me how to analyze vast amountsof data, think strategicall
   
 - 🚀 **What I'm Working On**
   
-        I'm always exploring new ways to leverage data analytics to solve complex problems, particulary in industries where data-driven
-        decisions can have a high impact-such as healthcare and defense.
+   I'm always exploring new ways to leverage data analytics to solve complex problems, particulary in industries where data-driven
+  decisions can have a high impact-such as healthcare and defense.
 
   
 - 🥇 **Let's Connect**
   
-        I'm passionate about collaboration and knowledge sharing. If you are interested in analytics, intelligence,
-        or how data can revolutionize healthcare and operations, feel free to reach out or explore my projects. 
+  I'm passionate about collaboration and knowledge sharing. If you are interested in analytics, intelligence,
+  or how data can revolutionize healthcare and operations, feel free to reach out or explore my projects. 
