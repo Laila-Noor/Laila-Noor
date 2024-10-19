@@ -1,7 +1,7 @@
-## Welcome to my GitHub 👋 I'm Laila. A professional data and business analyst 
-with a distinctive background,blending naval intelligence expertise and healthcare experience. With over a 
-decade of experience, I specialize in transforming complex data into strategic insights to drive business 
-outcomes and enhance decision-making.
+## Welcome to my GitHub 👋 I'm Laila. 
+A professional data and business analyst with a distinctive background,blending naval intelligence 
+expertise and healthcare experience. With over a decade of experience, I specialize in transforming 
+complex data into strategic insights to drive business outcomes and enhance decision-making.
 
 🔗 www.linkedin.com/in/lailameyer
 
