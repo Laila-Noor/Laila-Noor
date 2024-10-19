@@ -13,8 +13,8 @@ transforming complex data into strategic insights to drive business outcomes and
 - 🚢 **Naval Intelligence Specialist US Reserves**
 
 
-      I spent 4 years serving in the US reserves as a naval intelligence specialist, where I was responsible for critical intelligence operations.
-      This experience taught me how to analyze vast amountsof data, think strategically, and act decisively in high-pressure enviroments.
+ I spent 4 years serving in the US reserves as a naval intelligence specialist, where I was responsible for critical intelligence operations.
+This experience taught me how to analyze vast amountsof data, think strategically, and act decisively in high-pressure enviroments.
   
 - 🏥 **Healthcare Professional**
 
